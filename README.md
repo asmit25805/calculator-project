@@ -1,4 +1,3 @@
-# calculator-project
 # Calculator App
 
 ## Features
